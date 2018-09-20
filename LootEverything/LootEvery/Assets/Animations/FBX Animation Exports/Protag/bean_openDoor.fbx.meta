@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 5a5b9a8529714a542b9aa5a53e7ad278
+timeCreated: 1525296670
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bean_body
+    100002: bean_helmet
+    100004: //RootNode
+    100006: head
+    100008: L_arm
+    100010: L_clavicle
+    100012: L_elbow
+    100014: L_foot
+    100016: L_heel
+    100018: L_hip
+    100020: L_indexfinger
+    100022: L_indextip
+    100024: L_knee
+    100026: L_pinky
+    100028: L_pinkytip
+    100030: L_thumb
+    100032: L_thumbtip
+    100034: L_toe
+    100036: L_wrist
+    100038: lowerneck
+    100040: m_key_style1:pCube1
+    100042: pelvis
+    100044: R_arm
+    100046: R_clavicle
+    100048: R_elbow
+    100050: R_foot
+    100052: R_heel
+    100054: R_hip
+    100056: R_indexfinger
+    100058: R_indextip
+    100060: R_knee
+    100062: R_pinky
+    100064: R_pinkytip
+    100066: R_thumb
+    100068: R_thumbtip
+    100070: R_toe
+    100072: R_wrist
+    100074: sheathe
+    100076: sheathe 1
+    100078: sword
+    100080: swordAndSheathe
+    100082: torso
+    100084: upperneck
+    100086: waist
+    400000: bean_body
+    400002: bean_helmet
+    400004: //RootNode
+    400006: head
+    400008: L_arm
+    400010: L_clavicle
+    400012: L_elbow
+    400014: L_foot
+    400016: L_heel
+    400018: L_hip
+    400020: L_indexfinger
+    400022: L_indextip
+    400024: L_knee
+    400026: L_pinky
+    400028: L_pinkytip
+    400030: L_thumb
+    400032: L_thumbtip
+    400034: L_toe
+    400036: L_wrist
+    400038: lowerneck
+    400040: m_key_style1:pCube1
+    400042: pelvis
+    400044: R_arm
+    400046: R_clavicle
+    400048: R_elbow
+    400050: R_foot
+    400052: R_heel
+    400054: R_hip
+    400056: R_indexfinger
+    400058: R_indextip
+    400060: R_knee
+    400062: R_pinky
+    400064: R_pinkytip
+    400066: R_thumb
+    400068: R_thumbtip
+    400070: R_toe
+    400072: R_wrist
+    400074: sheathe
+    400076: sheathe 1
+    400078: sword
+    400080: swordAndSheathe
+    400082: torso
+    400084: upperneck
+    400086: waist
+    2100000: lambert2
+    2100002: lambert1
+    2100004: lambert3
+    2300000: bean_helmet
+    2300002: m_key_style1:pCube1
+    2300004: sheathe 1
+    2300006: sword
+    3300000: bean_helmet
+    3300002: m_key_style1:pCube1
+    3300004: sheathe 1
+    3300006: sword
+    4300000: bean_helmet
+    4300002: m_key_style1:pCube1
+    4300004: sword
+    4300006: sheathe
+    4300008: sheathe
+    4300010: bean_body
+    7400000: bean_openDoor
+    9500000: //RootNode
+    13700000: bean_body
+    13700002: sheathe
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

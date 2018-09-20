@@ -1,0 +1,1 @@
+I didn't edit the UV from the previous model at all, so you should be able to just apply the diffuse, and normal maps to the current model.
