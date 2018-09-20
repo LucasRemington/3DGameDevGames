@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 06cbd62e33e80cc4aa1c040ad1149b87
+timeCreated: 1522876154
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: back
+    100002: //RootNode
+    100004: ikHandle1
+    100006: ikHandle2
+    100008: ikHandle3
+    100010: ikHandle4
+    100012: ikHandle5
+    100014: ikHandle6
+    100016: ikHandle7
+    100018: joint10
+    100020: joint12
+    100022: joint13
+    100024: joint15
+    100026: joint16
+    100028: joint18
+    100030: joint19
+    100032: joint21
+    100034: joint22
+    100036: joint24
+    100038: joint6
+    100040: joint7
+    100042: joint9
+    100044: JointB
+    100046: JointF
+    100048: JointM
+    100050: left
+    100052: LegLB
+    100054: LegLB 1
+    100056: LegLF
+    100058: LegLF 1
+    100060: LegLM
+    100062: LegLM 1
+    100064: LegRB
+    100066: LegRB 1
+    100068: LegRF
+    100070: LegRF 1
+    100072: LegRM
+    100074: LegRM 1
+    100076: locator1
+    100078: locator2
+    100080: locator3
+    100082: locator4
+    100084: locator5
+    100086: locator6
+    100088: MASTER
+    100090: ROOT
+    100092: Spider
+    100094: Thorax
+    100096: Thorax 1
+    100098: transform1
+    100100: transform2
+    100102: transform3
+    100104: transform4
+    100106: transform7
+    100108: transform8
+    400000: back
+    400002: //RootNode
+    400004: ikHandle1
+    400006: ikHandle2
+    400008: ikHandle3
+    400010: ikHandle4
+    400012: ikHandle5
+    400014: ikHandle6
+    400016: ikHandle7
+    400018: joint10
+    400020: joint12
+    400022: joint13
+    400024: joint15
+    400026: joint16
+    400028: joint18
+    400030: joint19
+    400032: joint21
+    400034: joint22
+    400036: joint24
+    400038: joint6
+    400040: joint7
+    400042: joint9
+    400044: JointB
+    400046: JointF
+    400048: JointM
+    400050: left
+    400052: LegLB
+    400054: LegLB 1
+    400056: LegLF
+    400058: LegLF 1
+    400060: LegLM
+    400062: LegLM 1
+    400064: LegRB
+    400066: LegRB 1
+    400068: LegRF
+    400070: LegRF 1
+    400072: LegRM
+    400074: LegRM 1
+    400076: locator1
+    400078: locator2
+    400080: locator3
+    400082: locator4
+    400084: locator5
+    400086: locator6
+    400088: MASTER
+    400090: ROOT
+    400092: Spider
+    400094: Thorax
+    400096: Thorax 1
+    400098: transform1
+    400100: transform2
+    400102: transform3
+    400104: transform4
+    400106: transform7
+    400108: transform8
+    2000000: back
+    2000002: left
+    2100000: lambert1
+    2100002: stem
+    4300000: Spider
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Spider
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

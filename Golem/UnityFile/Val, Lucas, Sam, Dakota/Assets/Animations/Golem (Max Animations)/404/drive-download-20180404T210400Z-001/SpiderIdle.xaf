@@ -1,0 +1,383 @@
+<MaxAnimation version="1.00" date="Wed Apr  4 14:42:32 2018">
+    <SceneInfo fileName="Idle.max" startTick="0" endTick="12000" frameRate="30" ticksPerFrame="160" />
+    <CustomData />
+    <Node name="Spider" parentNode="Scene Root" parentNodeIndex="1" numChildren="0">
+        <Samples count="76">
+            <S t="0" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="160" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="320" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="480" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="640" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="800" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="960" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="1120" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="1280" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="1440" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="1600" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="1760" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="1920" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="2080" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="2240" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="2400" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="2560" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="2720" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="2880" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="3040" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="3200" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="3360" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="3520" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="3680" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="3840" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="4000" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="4160" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="4320" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="4480" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="4640" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="4800" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="4960" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="5120" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="5280" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="5440" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="5600" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="5760" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="5920" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="6080" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="6240" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="6400" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="6560" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="6720" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="6880" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="7040" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="7200" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="7360" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="7520" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="7680" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="7840" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="8000" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="8160" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="8320" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="8480" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="8640" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="8800" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="8960" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="9120" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="9280" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="9440" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="9600" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="9760" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="9920" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="10080" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="10240" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="10400" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="10560" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="10720" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="10880" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="11040" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="11200" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="11360" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="11520" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="11680" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="11840" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+            <S t="12000" v="1.000000 0.000000 0.000000 0.000000 -0.000000 1.000000 0.000000 -1.000000 -0.000000 0.000000 0.294822 1.957997" />
+        </Samples>
+        <Controller name="Spider \ Visibility" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="visTrack" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="200" inRangeLoop="false" outRangeLoop="false">
+                <Key t="200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="1800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="2800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="3800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="4800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="5000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="5200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="5400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="5600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="5800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="6000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="6200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="6400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="6600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="6800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="7000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="7200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="7400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="7600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="7800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="8000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="8200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="8400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="8600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="8800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="9000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="9200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="9400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="9600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="9800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="10000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="10200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="10400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="10600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="10800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="11000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="11200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="11400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="11600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="11800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="12000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333333 " />
+                <Key t="12200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="12400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="12600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="12800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="13000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="13200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="13400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="13600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="13800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="14000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="14200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="14400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="14600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="14800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="15000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="15200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="15400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="15600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="15800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="16000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="16200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="16400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="16600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="16800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="17000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="17200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="17400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="17600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="17800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="18000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="18200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="18400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="18600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="18800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="19000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="19200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="19400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="19600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="19800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="20000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="20200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="20400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="20600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="20800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="21000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="21200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="21400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="21600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="21800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="22000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="22200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="22400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="22600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="22800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="23000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="23200" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="23400" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="23600" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="23800" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="24000" xB="false" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="flat" outTan="flat" v="1.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333333 " outLen="0.333333 " />
+                <Key t="24200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="24400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="24600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="24800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="25000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="25200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="25400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="25600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="25800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="26000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="26200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="26400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="26600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="26800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="27000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="27200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="27400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="27600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="27800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="28000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="28200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="28400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="28600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="28800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="29000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="29200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="29400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="29600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="29800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="30000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="30200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="30400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="30600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="30800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="31000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="31200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="31400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="31600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="31800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="32000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="32200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="32400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="32600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="32800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="33000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="33200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="33400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="33600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="33800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="34000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="34200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="34400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="34600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="34800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="35000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="35200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="35400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="35600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="35800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="36000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="36200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="36400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="36600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="36800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="37000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="37200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="37400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="37600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="37800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="38000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="38200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="38400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="38600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="38800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="39000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="39200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="39400" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="39600" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="39800" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+                <Key t="40000" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.0 " inTanVal="0.0 " outTanVal="-0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Spider \ Transform \ Rotation" classOf="Euler XYZ" classID="2012,0" superClassID="900C" subNum="1" numChildren="3" filterType="rot" outOfRangeBefore="constant" outOfRangeAfter="constant" eulerOrder="XZY" eulerRotatingFrame="true">
+            <Samples count="76">
+                <RVal t="0" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="160" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="320" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="480" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="640" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="800" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="960" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="1120" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="1280" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="1440" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="1600" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="1760" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="1920" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="2080" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="2240" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="2400" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="2560" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="2720" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="2880" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="3040" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="3200" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="3360" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="3520" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="3680" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="3840" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="4000" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="4160" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="4320" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="4480" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="4640" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="4800" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="4960" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="5120" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="5280" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="5440" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="5600" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="5760" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="5920" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="6080" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="6240" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="6400" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="6560" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="6720" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="6880" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="7040" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="7200" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="7360" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="7520" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="7680" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="7840" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="8000" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="8160" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="8320" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="8480" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="8640" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="8800" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="8960" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="9120" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="9280" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="9440" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="9600" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="9760" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="9920" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="10080" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="10240" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="10400" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="10560" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="10720" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="10880" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="11040" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="11200" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="11360" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="11520" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="11680" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="11840" v="-0.707107 0.0 0.0 0.707107 " />
+                <RVal t="12000" v="-0.707107 0.0 0.0 0.707107 " />
+            </Samples>
+        </Controller>
+        <Controller name="Spider \ Transform \ Rotation \ X Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="0" numChildren="0" filterType="rotx" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="1.570796 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Spider \ Transform \ Rotation \ Y Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="1" numChildren="0" filterType="roty" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="-0.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+        <Controller name="Spider \ Transform \ Rotation \ Z Rotation" classOf="Bezier Float" classID="2007,0" superClassID="9003" subNum="2" numChildren="0" filterType="rotz" outOfRangeBefore="constant" outOfRangeAfter="constant">
+            <Keys count="1" inRangeLoop="false" outRangeLoop="false">
+                <Key t="200" xB="true" yB="false" zB="false" wB="false" cVel="false" unconHan="false" inTan="user" outTan="user" v="0.0 " inTanVal="-0.0 " outTanVal="0.0 " inLen="0.333300 " outLen="0.333300 " />
+            </Keys>
+        </Controller>
+    </Node>
+</MaxAnimation>

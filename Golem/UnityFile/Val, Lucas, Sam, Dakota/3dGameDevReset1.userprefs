@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Val Coding\PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets\Val Coding\PlayerMovement.cs" Line="111" Column="4" />
+      <File FileName="Assets\Val Coding\EnemyMove.cs" Line="81" Column="27" />
+      <File FileName="Assets\Val Coding\spinL.cs" Line="10" Column="57" />
+      <File FileName="Assets\Val Coding\DeathMenu.cs" Line="15" Column="3" />
+      <File FileName="Assets\Val Coding\MainMenu.cs" Line="15" Column="39" />
+      <File FileName="Assets\Val Coding\TalkingScript.cs" Line="130" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

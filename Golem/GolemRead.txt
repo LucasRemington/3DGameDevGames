@@ -1,0 +1,8 @@
+GolemBuild - Build of the Game
+UnityFile - Unity File
+
+Controls:
+WASD - movement
+Shift - interact
+Left click - shoot left
+Right click - shoot right
